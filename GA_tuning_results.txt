@@ -1,0 +1,400 @@
+Trial 1:
+Parameters: {'population_size': 50, 'num_parents': 75, 'mutation_rate': 0.01, 'num_generations': 200}
+Best Distance: 10.337381218874087
+
+Trial 2:
+Parameters: {'population_size': 200, 'num_parents': 25, 'mutation_rate': 0.01, 'num_generations': 200}
+Best Distance: 12.012441863991075
+
+Trial 3:
+Parameters: {'population_size': 150, 'num_parents': 75, 'mutation_rate': 0.01, 'num_generations': 100}
+Best Distance: 12.000542876566803
+
+Trial 4:
+Parameters: {'population_size': 100, 'num_parents': 75, 'mutation_rate': 0.2, 'num_generations': 200}
+Best Distance: 10.56546527943353
+
+Trial 5:
+Parameters: {'population_size': 50, 'num_parents': 100, 'mutation_rate': 0.01, 'num_generations': 100}
+Best Distance: 10.790219558859826
+
+Trial 6:
+Parameters: {'population_size': 150, 'num_parents': 75, 'mutation_rate': 0.01, 'num_generations': 100}
+Best Distance: 9.130308342165275
+
+Trial 7:
+Parameters: {'population_size': 150, 'num_parents': 75, 'mutation_rate': 0.05, 'num_generations': 300}
+Best Distance: 7.788545973729921
+
+Trial 8:
+Parameters: {'population_size': 50, 'num_parents': 50, 'mutation_rate': 0.1, 'num_generations': 400}
+Best Distance: 8.479795399285734
+
+Trial 9:
+Parameters: {'population_size': 100, 'num_parents': 75, 'mutation_rate': 0.1, 'num_generations': 100}
+Best Distance: 11.298036918799063
+
+Trial 10:
+Parameters: {'population_size': 50, 'num_parents': 50, 'mutation_rate': 0.01, 'num_generations': 200}
+Best Distance: 11.596198232799038
+
+Trial 11:
+Parameters: {'population_size': 100, 'num_parents': 75, 'mutation_rate': 0.05, 'num_generations': 200}
+Best Distance: 10.968263989548856
+
+Trial 12:
+Parameters: {'population_size': 50, 'num_parents': 75, 'mutation_rate': 0.1, 'num_generations': 100}
+Best Distance: 9.992522100028621
+
+Trial 13:
+Parameters: {'population_size': 100, 'num_parents': 75, 'mutation_rate': 0.1, 'num_generations': 400}
+Best Distance: 9.391057097474487
+
+Trial 14:
+Parameters: {'population_size': 100, 'num_parents': 25, 'mutation_rate': 0.2, 'num_generations': 300}
+Best Distance: 11.491796591546207
+
+Trial 15:
+Parameters: {'population_size': 100, 'num_parents': 50, 'mutation_rate': 0.01, 'num_generations': 400}
+Best Distance: 15.540851926791678
+
+Trial 16:
+Parameters: {'population_size': 200, 'num_parents': 50, 'mutation_rate': 0.01, 'num_generations': 300}
+Best Distance: 9.900933214345915
+
+Trial 17:
+Parameters: {'population_size': 100, 'num_parents': 100, 'mutation_rate': 0.1, 'num_generations': 300}
+Best Distance: 9.71341369871437
+
+Trial 18:
+Parameters: {'population_size': 50, 'num_parents': 25, 'mutation_rate': 0.2, 'num_generations': 300}
+Best Distance: 7.988128163145568
+
+Trial 19:
+Parameters: {'population_size': 50, 'num_parents': 75, 'mutation_rate': 0.2, 'num_generations': 300}
+Best Distance: 9.461135661221826
+
+Trial 20:
+Parameters: {'population_size': 100, 'num_parents': 100, 'mutation_rate': 0.05, 'num_generations': 200}
+Best Distance: 10.944947517909185
+
+Trial 21:
+Parameters: {'population_size': 50, 'num_parents': 100, 'mutation_rate': 0.05, 'num_generations': 300}
+Best Distance: 9.044443894853266
+
+Trial 22:
+Parameters: {'population_size': 50, 'num_parents': 25, 'mutation_rate': 0.01, 'num_generations': 300}
+Best Distance: 11.827190963051907
+
+Trial 23:
+Parameters: {'population_size': 200, 'num_parents': 25, 'mutation_rate': 0.1, 'num_generations': 400}
+Best Distance: 10.400692455191834
+
+Trial 24:
+Parameters: {'population_size': 50, 'num_parents': 100, 'mutation_rate': 0.1, 'num_generations': 300}
+Best Distance: 10.133400041725857
+
+Trial 25:
+Parameters: {'population_size': 50, 'num_parents': 100, 'mutation_rate': 0.1, 'num_generations': 400}
+Best Distance: 10.598722982802013
+
+Trial 26:
+Parameters: {'population_size': 100, 'num_parents': 50, 'mutation_rate': 0.1, 'num_generations': 400}
+Best Distance: 10.752124312660248
+
+Trial 27:
+Parameters: {'population_size': 200, 'num_parents': 100, 'mutation_rate': 0.1, 'num_generations': 400}
+Best Distance: 12.725603084422671
+
+Trial 28:
+Parameters: {'population_size': 200, 'num_parents': 75, 'mutation_rate': 0.05, 'num_generations': 100}
+Best Distance: 11.061709533812817
+
+Trial 29:
+Parameters: {'population_size': 50, 'num_parents': 25, 'mutation_rate': 0.1, 'num_generations': 300}
+Best Distance: 11.092324031998444
+
+Trial 30:
+Parameters: {'population_size': 200, 'num_parents': 100, 'mutation_rate': 0.2, 'num_generations': 300}
+Best Distance: 10.837932866387408
+
+Trial 31:
+Parameters: {'population_size': 100, 'num_parents': 50, 'mutation_rate': 0.05, 'num_generations': 100}
+Best Distance: 10.62655985562121
+
+Trial 32:
+Parameters: {'population_size': 200, 'num_parents': 100, 'mutation_rate': 0.2, 'num_generations': 100}
+Best Distance: 13.883856952066429
+
+Trial 33:
+Parameters: {'population_size': 100, 'num_parents': 75, 'mutation_rate': 0.01, 'num_generations': 300}
+Best Distance: 13.061975471949108
+
+Trial 34:
+Parameters: {'population_size': 150, 'num_parents': 100, 'mutation_rate': 0.2, 'num_generations': 400}
+Best Distance: 10.449163661068372
+
+Trial 35:
+Parameters: {'population_size': 200, 'num_parents': 100, 'mutation_rate': 0.01, 'num_generations': 100}
+Best Distance: 10.44447134744474
+
+Trial 36:
+Parameters: {'population_size': 150, 'num_parents': 100, 'mutation_rate': 0.1, 'num_generations': 300}
+Best Distance: 10.018073978927061
+
+Trial 37:
+Parameters: {'population_size': 150, 'num_parents': 50, 'mutation_rate': 0.2, 'num_generations': 400}
+Best Distance: 9.403221284172465
+
+Trial 38:
+Parameters: {'population_size': 150, 'num_parents': 50, 'mutation_rate': 0.2, 'num_generations': 300}
+Best Distance: 11.405436111621988
+
+Trial 39:
+Parameters: {'population_size': 150, 'num_parents': 50, 'mutation_rate': 0.01, 'num_generations': 400}
+Best Distance: 13.989788162400547
+
+Trial 40:
+Parameters: {'population_size': 100, 'num_parents': 50, 'mutation_rate': 0.05, 'num_generations': 200}
+Best Distance: 15.446679542347638
+
+Trial 41:
+Parameters: {'population_size': 150, 'num_parents': 25, 'mutation_rate': 0.05, 'num_generations': 400}
+Best Distance: 10.781195785945284
+
+Trial 42:
+Parameters: {'population_size': 150, 'num_parents': 50, 'mutation_rate': 0.1, 'num_generations': 200}
+Best Distance: 13.327213755310753
+
+Trial 43:
+Parameters: {'population_size': 150, 'num_parents': 75, 'mutation_rate': 0.2, 'num_generations': 300}
+Best Distance: 10.938104221883096
+
+Trial 44:
+Parameters: {'population_size': 200, 'num_parents': 25, 'mutation_rate': 0.1, 'num_generations': 300}
+Best Distance: 9.838580566536967
+
+Trial 45:
+Parameters: {'population_size': 100, 'num_parents': 25, 'mutation_rate': 0.1, 'num_generations': 100}
+Best Distance: 12.760232692204896
+
+Trial 46:
+Parameters: {'population_size': 200, 'num_parents': 50, 'mutation_rate': 0.2, 'num_generations': 300}
+Best Distance: 10.187444996507313
+
+Trial 47:
+Parameters: {'population_size': 150, 'num_parents': 25, 'mutation_rate': 0.05, 'num_generations': 100}
+Best Distance: 9.799825248844087
+
+Trial 48:
+Parameters: {'population_size': 50, 'num_parents': 100, 'mutation_rate': 0.01, 'num_generations': 400}
+Best Distance: 9.707873512792823
+
+Trial 49:
+Parameters: {'population_size': 200, 'num_parents': 75, 'mutation_rate': 0.1, 'num_generations': 400}
+Best Distance: 9.48309767924494
+
+Trial 50:
+Parameters: {'population_size': 100, 'num_parents': 25, 'mutation_rate': 0.2, 'num_generations': 100}
+Best Distance: 14.266626773085537
+
+Trial 51:
+Parameters: {'population_size': 150, 'num_parents': 50, 'mutation_rate': 0.1, 'num_generations': 300}
+Best Distance: 8.621762765395388
+
+Trial 52:
+Parameters: {'population_size': 100, 'num_parents': 50, 'mutation_rate': 0.01, 'num_generations': 100}
+Best Distance: 11.10182444368418
+
+Trial 53:
+Parameters: {'population_size': 50, 'num_parents': 75, 'mutation_rate': 0.05, 'num_generations': 200}
+Best Distance: 11.847269438043092
+
+Trial 54:
+Parameters: {'population_size': 100, 'num_parents': 75, 'mutation_rate': 0.1, 'num_generations': 300}
+Best Distance: 8.517400825681829
+
+Trial 55:
+Parameters: {'population_size': 200, 'num_parents': 100, 'mutation_rate': 0.1, 'num_generations': 400}
+Best Distance: 10.653493300895436
+
+Trial 56:
+Parameters: {'population_size': 200, 'num_parents': 100, 'mutation_rate': 0.05, 'num_generations': 100}
+Best Distance: 11.61393009111008
+
+Trial 57:
+Parameters: {'population_size': 50, 'num_parents': 25, 'mutation_rate': 0.01, 'num_generations': 400}
+Best Distance: 11.263265731691046
+
+Trial 58:
+Parameters: {'population_size': 50, 'num_parents': 50, 'mutation_rate': 0.2, 'num_generations': 400}
+Best Distance: 11.51720951036923
+
+Trial 59:
+Parameters: {'population_size': 100, 'num_parents': 50, 'mutation_rate': 0.1, 'num_generations': 300}
+Best Distance: 11.356405411682315
+
+Trial 60:
+Parameters: {'population_size': 150, 'num_parents': 50, 'mutation_rate': 0.1, 'num_generations': 400}
+Best Distance: 8.4184418239775
+
+Trial 61:
+Parameters: {'population_size': 50, 'num_parents': 50, 'mutation_rate': 0.01, 'num_generations': 200}
+Best Distance: 10.58197156172342
+
+Trial 62:
+Parameters: {'population_size': 100, 'num_parents': 75, 'mutation_rate': 0.1, 'num_generations': 100}
+Best Distance: 11.374826480233352
+
+Trial 63:
+Parameters: {'population_size': 150, 'num_parents': 75, 'mutation_rate': 0.2, 'num_generations': 300}
+Best Distance: 9.86127087592922
+
+Trial 64:
+Parameters: {'population_size': 50, 'num_parents': 50, 'mutation_rate': 0.2, 'num_generations': 400}
+Best Distance: 10.086306167934273
+
+Trial 65:
+Parameters: {'population_size': 100, 'num_parents': 100, 'mutation_rate': 0.2, 'num_generations': 100}
+Best Distance: 11.984990970633472
+
+Trial 66:
+Parameters: {'population_size': 100, 'num_parents': 25, 'mutation_rate': 0.01, 'num_generations': 100}
+Best Distance: 10.884029743200518
+
+Trial 67:
+Parameters: {'population_size': 200, 'num_parents': 25, 'mutation_rate': 0.01, 'num_generations': 400}
+Best Distance: 14.516254630271312
+
+Trial 68:
+Parameters: {'population_size': 50, 'num_parents': 25, 'mutation_rate': 0.2, 'num_generations': 200}
+Best Distance: 11.295129482392966
+
+Trial 69:
+Parameters: {'population_size': 150, 'num_parents': 75, 'mutation_rate': 0.2, 'num_generations': 400}
+Best Distance: 9.262938089436831
+
+Trial 70:
+Parameters: {'population_size': 150, 'num_parents': 75, 'mutation_rate': 0.1, 'num_generations': 200}
+Best Distance: 10.134012182201014
+
+Trial 71:
+Parameters: {'population_size': 50, 'num_parents': 100, 'mutation_rate': 0.2, 'num_generations': 200}
+Best Distance: 11.61056389504326
+
+Trial 72:
+Parameters: {'population_size': 50, 'num_parents': 75, 'mutation_rate': 0.1, 'num_generations': 300}
+Best Distance: 12.732705098959501
+
+Trial 73:
+Parameters: {'population_size': 50, 'num_parents': 50, 'mutation_rate': 0.2, 'num_generations': 300}
+Best Distance: 8.168230576638862
+
+Trial 74:
+Parameters: {'population_size': 150, 'num_parents': 50, 'mutation_rate': 0.2, 'num_generations': 200}
+Best Distance: 11.768728663582797
+
+Trial 75:
+Parameters: {'population_size': 150, 'num_parents': 100, 'mutation_rate': 0.05, 'num_generations': 100}
+Best Distance: 12.701584967600544
+
+Trial 76:
+Parameters: {'population_size': 50, 'num_parents': 100, 'mutation_rate': 0.05, 'num_generations': 100}
+Best Distance: 11.395386702554502
+
+Trial 77:
+Parameters: {'population_size': 50, 'num_parents': 50, 'mutation_rate': 0.2, 'num_generations': 400}
+Best Distance: 12.582477770691677
+
+Trial 78:
+Parameters: {'population_size': 100, 'num_parents': 50, 'mutation_rate': 0.01, 'num_generations': 400}
+Best Distance: 10.899814322153125
+
+Trial 79:
+Parameters: {'population_size': 100, 'num_parents': 25, 'mutation_rate': 0.05, 'num_generations': 400}
+Best Distance: 10.505742485113185
+
+Trial 80:
+Parameters: {'population_size': 50, 'num_parents': 100, 'mutation_rate': 0.05, 'num_generations': 300}
+Best Distance: 9.296376577983715
+
+Trial 81:
+Parameters: {'population_size': 150, 'num_parents': 25, 'mutation_rate': 0.05, 'num_generations': 400}
+Best Distance: 10.438630576403293
+
+Trial 82:
+Parameters: {'population_size': 150, 'num_parents': 75, 'mutation_rate': 0.01, 'num_generations': 300}
+Best Distance: 10.863551341107167
+
+Trial 83:
+Parameters: {'population_size': 100, 'num_parents': 50, 'mutation_rate': 0.2, 'num_generations': 200}
+Best Distance: 11.044248128434319
+
+Trial 84:
+Parameters: {'population_size': 100, 'num_parents': 50, 'mutation_rate': 0.2, 'num_generations': 200}
+Best Distance: 11.713098342660846
+
+Trial 85:
+Parameters: {'population_size': 200, 'num_parents': 100, 'mutation_rate': 0.2, 'num_generations': 200}
+Best Distance: 10.353700103973694
+
+Trial 86:
+Parameters: {'population_size': 150, 'num_parents': 50, 'mutation_rate': 0.1, 'num_generations': 100}
+Best Distance: 14.493884180726498
+
+Trial 87:
+Parameters: {'population_size': 150, 'num_parents': 100, 'mutation_rate': 0.01, 'num_generations': 200}
+Best Distance: 11.676712012988132
+
+Trial 88:
+Parameters: {'population_size': 100, 'num_parents': 25, 'mutation_rate': 0.1, 'num_generations': 200}
+Best Distance: 10.09060402647831
+
+Trial 89:
+Parameters: {'population_size': 200, 'num_parents': 75, 'mutation_rate': 0.05, 'num_generations': 300}
+Best Distance: 13.138266349740519
+
+Trial 90:
+Parameters: {'population_size': 50, 'num_parents': 75, 'mutation_rate': 0.05, 'num_generations': 300}
+Best Distance: 15.474858641898255
+
+Trial 91:
+Parameters: {'population_size': 100, 'num_parents': 50, 'mutation_rate': 0.01, 'num_generations': 100}
+Best Distance: 15.727182729279338
+
+Trial 92:
+Parameters: {'population_size': 50, 'num_parents': 50, 'mutation_rate': 0.2, 'num_generations': 300}
+Best Distance: 9.207135710304936
+
+Trial 93:
+Parameters: {'population_size': 100, 'num_parents': 100, 'mutation_rate': 0.05, 'num_generations': 100}
+Best Distance: 11.152333617977044
+
+Trial 94:
+Parameters: {'population_size': 50, 'num_parents': 75, 'mutation_rate': 0.2, 'num_generations': 100}
+Best Distance: 17.033016288599757
+
+Trial 95:
+Parameters: {'population_size': 200, 'num_parents': 25, 'mutation_rate': 0.1, 'num_generations': 400}
+Best Distance: 9.841519001583034
+
+Trial 96:
+Parameters: {'population_size': 100, 'num_parents': 100, 'mutation_rate': 0.05, 'num_generations': 200}
+Best Distance: 12.239939272942934
+
+Trial 97:
+Parameters: {'population_size': 200, 'num_parents': 25, 'mutation_rate': 0.01, 'num_generations': 100}
+Best Distance: 13.035289117696285
+
+Trial 98:
+Parameters: {'population_size': 200, 'num_parents': 75, 'mutation_rate': 0.05, 'num_generations': 200}
+Best Distance: 13.503621851188871
+
+Trial 99:
+Parameters: {'population_size': 50, 'num_parents': 100, 'mutation_rate': 0.05, 'num_generations': 200}
+Best Distance: 12.726525200705467
+
+Trial 100:
+Parameters: {'population_size': 50, 'num_parents': 75, 'mutation_rate': 0.1, 'num_generations': 200}
+Best Distance: 9.608060310111235
+
